@@ -18,6 +18,8 @@ Bike-sharing trip analysis. To show how profitable the program could be.
 ![](https://github.com/Acromic/bikesharing/blob/3eb86bab5e5fc2b7cdac65889f8f1ccf13a380b1/Resources/Screen%20Shot%202022-05-21%20at%209.17.40%20AM.png)
 * Gender trips by weekday <br>
 ![](https://github.com/Acromic/bikesharing/blob/3eb86bab5e5fc2b7cdac65889f8f1ccf13a380b1/Resources/Screen%20Shot%202022-05-21%20at%209.17.55%20AM.png)
+
+<img src="https://github.com/Acromic/bikesharing/blob/3eb86bab5e5fc2b7cdac65889f8f1ccf13a380b1/Resources/Screen%20Shot%202022-05-21%20at%209.17.55%20AM.png" width="75%" height="75%"> 
 <br>
 <br>
 ## Summary
