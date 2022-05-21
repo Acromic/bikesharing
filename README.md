@@ -22,6 +22,8 @@ Bike-sharing trip analysis. To show how profitable the bike-sharing program coul
 <br>
 <br>
 ## Summary
+The data shows the bike-sharing program to be a solid business. True peaks times show exercise and commute to play a factore in the success of the
+bike_sharing program. Gender showing that is more popular amongst males.
 
 For the full breakdown
 [link to dashboard](https://public.tableau.com/views/challenge14_16530804329350/BikeTrips?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
