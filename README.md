@@ -1,7 +1,7 @@
 # bikesharing
 
 ## Overview of Project
-Bike-sharing trip analysis. To show how profitable the program could be.
+Bike-sharing trip analysis. To show how profitable the bike-sharing program could be in Des Moines.
 
 ## Results
 * Graph shows the top start locations <br>
