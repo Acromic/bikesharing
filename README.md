@@ -20,8 +20,8 @@ Bike-sharing trip analysis. To show how profitable the bike-sharing program coul
 
 <img src="https://github.com/Acromic/bikesharing/blob/3eb86bab5e5fc2b7cdac65889f8f1ccf13a380b1/Resources/Screen%20Shot%202022-05-21%20at%209.17.55%20AM.png" width="75%" height="75%"> 
 <br>
-<br>
-## Summary<br>
+
+## Summary <br>
 The data shows the bike-sharing program to be a solid business. True peaks times show exercise and commute to play a factore in the success of the
 bike-sharing program. With early times peaking at 8am and evening times peaking at 5pm and 6pm. Gender showing that is more popular amongst males.
 With more advertising and finding further ways to show interest, the future looks like a good investment.
