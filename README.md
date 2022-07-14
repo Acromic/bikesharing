@@ -1,4 +1,4 @@
-# bikesharing
+# bikesharing :bike:
 
 ## Overview of Project
 Bike-sharing trip analysis. To show how profitable the bike-sharing program could be in Des Moines.
