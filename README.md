@@ -1,7 +1,20 @@
 # bikesharing :bike:
 
-## Overview of Project
+## Purpose
+
 Bike-sharing trip analysis. To show how profitable the bike-sharing program could be in Des Moines.
+For this analysis, I used Pandas to change the "tripduration" column from an integer to a datetime datatype. Then, using the converted datatype, created a set of visualizations in Tableau to:
+
+  *Show the length of time that bikes are checked out for all riders and genders
+  *Show the number of bike trips for all riders and genders for each hour of each day of the week
+  *Show the number of bike trips for each type of user and gender for each day of the week.
+
+## Technologies used:
+
+  *Python
+  *Pandas
+  *Tableau
+  *CSV
 
 ## Results
 * Graph shows the top start locations <br>
